@@ -1,0 +1,14 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+
+  border-radius: 5px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: white;
+  margin: 5px;
+  border: 1px solid white;
+  width: 150px;
+  height: 350px;
+}

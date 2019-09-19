@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Magic sword",
+    "price": "10 gold",
+    "description": "a magic sword"
+  },
+  {
+    "id": 2,
+    "name": "Wooden sword",
+    "price": "1 gold",
+    "description": "a wooden sword"
+  },
+  {
+    "id": 3,
+    "name": "Magic staff",
+    "price": "10 gold",
+    "description": "a magic staff"
+  }
+]

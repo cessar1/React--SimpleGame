@@ -1,0 +1,44 @@
+.App {
+  font-family: sans-serif;
+}
+.nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background-color: rgb(73, 78, 80);
+  color: white;
+}
+.nav-links {
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+.items {
+  display: flex;
+}
+.screen {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+  width: 300px;
+  height: 300px;
+  border: 2px solid white;
+  color: white;
+}
+.game {
+  display: flex;
+  align-content: center;
+}
+button {
+  padding: 15px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  border: 1px dotted white;
+  margin: 2px;
+}
