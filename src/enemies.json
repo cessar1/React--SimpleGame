@@ -1,27 +1,30 @@
 [
   {
+    "lv": 1,
     "name": "Lesser rat",
     "hp": 20,
+    "mp": 10,
     "exp": 2,
-    "lv": 1,
     "damage": 0,
     "description": "A little harmless rat ",
     "gold": 1
   },
   {
+    "lv": 2,
     "name": "Giant rat",
     "hp": 35,
+    "mp": 15,
     "exp": 4,
-    "lv": 2,
     "damage": 1,
     "description": "A giant rat ",
     "gold": 3
   },
   {
+    "lv": 4,
     "name": "Skeleton",
     "hp": 50,
+    "mp": 20,
     "exp": 2,
-    "lv": 4,
     "damage": 5,
     "description": "A creepy skeleton",
     "gold": 5
