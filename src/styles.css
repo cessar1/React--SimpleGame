@@ -21,7 +21,7 @@
 }
 .screen {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 
@@ -41,4 +41,7 @@ button {
   font-weight: bold;
   border: 1px dotted white;
   margin: 2px;
+}
+button:hover {
+  background-color: red;
 }
